@@ -153,5 +153,8 @@
 
 .eacl-table-cell {
    padding: 5px;
+}
+
+.eacl-table-cell[rowspan] {
 	border-right: 1px solid #ccc;
 }
